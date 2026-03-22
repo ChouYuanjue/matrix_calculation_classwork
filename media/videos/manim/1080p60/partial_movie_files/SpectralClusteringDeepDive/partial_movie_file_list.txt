@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2257293077_3894064906_2135775778.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_3774006528_3127183100.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_1839128356_3817184565.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_3394116861_1959681905.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_3029332405_237004261.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_2704686740_3748988116.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_604090491_142893089.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_490868958_2694505909.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_1839128356_441725609.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_45623027_3668193911.mp4'
+file 'file:E:/.homework/矩阵计算/第一次汇报/media/videos/manim/1080p60/partial_movie_files/SpectralClusteringDeepDive/2135761390_1734327179_3739438356.mp4'

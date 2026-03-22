@@ -1,0 +1,20 @@
+# 默认不提交任何文件
+*
+
+# 显式允许提交的文件夹
+!*/
+
+# 允许提交以下特定文件
+!.gitignore
+!README.md
+!beamer.tex
+!beamer.pdf
+!notebook.ipynb
+!merge_videos.py
+
+# 允许的两张 png 图片
+!k-nn.png
+!pca_concept_projection.png
+
+# 允许 1080p60 文件夹及其内容
+!media/videos/manim/1080p60/**
