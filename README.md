@@ -7,4 +7,4 @@
 - `notebook.ipynb`: 相关的代码分析与数据处理笔记。
 - `merge_videos.py`: 用于合并生成的解释性视频的脚本文件。
 - 两张配图 (`k-nn.png` / `pca_concept_projection.png`)。
-- `media/videos/manim/1080p60/`: Manim 渲染生成的高清汇报视频片段素材。
+- `media/videos/manim/1080p60/`: Manim 渲染生成的高清汇报视频片段素材。最终完整视频见`media\videos\manim\1080p60\manim.mp4`。
