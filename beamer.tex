@@ -1,15 +1,18 @@
-\documentclass[aspectratio=169,professionalfonts]{beamer}
+\documentclass[aspectratio=169]{beamer}
 
 % 设置现代感清爽主题
 \usetheme{Boadilla}
 \usecolortheme{seahorse}
 
 % 引入必要的宏包
+\usepackage{newtxtext,newtxmath} % 使用标准的 Times 类数学字体
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{xcolor}
 \usepackage{xeCJK} % 支持中文，如果使用 pdfLaTeX 编译请换成 \usepackage{ctex}
+\usepackage{hyperref} % 显式引入以确保 url 命令可用
+% beamer 视频播放命令 \movie
 
 % 隐藏导航符号，让页面更干净
 \setbeamertemplate{navigation symbols}{}
@@ -193,7 +196,27 @@
         \item 利用\textbf{谱聚类}与图拉普拉斯特征分析，可以在高维流形上对 Document Embeddings 进行严谨的拓扑切分，构建层次化检索树，大幅降低 RAG 的幻觉与检索噪声。
     \end{itemize}
 \end{frame}
+
+% 添加 GitHub 仓库链接与内容说明
+\begin{frame}{项目资源与可视化}
+    \textbf{GitHub 仓库链接：} \url{https://github.com/ChouYuanjue/matrix_calculation_classwork}
+
+    \vspace{0.5cm}
+    \textbf{仓库内容：}
+    \begin{itemize}
+        \item \textbf{Jupyter Notebook：} 包含矩阵计算的详细代码与实验记录。
+        \item \textbf{Manim 可视化视频：} 提供矩阵计算与概念空间分析的动态演示。
+        \item \textbf{Beamer \LaTeX{} 源码：} 提供本次报告幻灯片的完整 \LaTeX{} 文件，便于学习与修改。
+    \end{itemize}
+\end{frame}
+
 % 9. 总结
+% 在倒数第二页之前插入视频演示页
+\begin{frame}{视频演示}
+    \centering
+    
+\end{frame}
+
 \begin{frame}
     \begin{center}
         \Huge \textbf{Thanks.}
